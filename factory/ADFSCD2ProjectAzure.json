@@ -1,0 +1,9 @@
+{
+	"name": "ADFSCD2ProjectAzure",
+	"location": "canadacentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "df785f12-6e03-40f8-a19e-91d56fd2c18f",
+		"tenantId": "1e76fb55-e18b-4e23-804a-b04b70ddf032"
+	}
+}
